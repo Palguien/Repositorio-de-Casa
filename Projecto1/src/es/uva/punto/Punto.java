@@ -4,7 +4,7 @@ public class Punto {
 
 	//ATRIBUTOS
 	/**
-	 * Atributo que modela la coordenada x de la clase Punto
+	 * Atributo que modela la coordenada x de la clase Punto holaaaa
 	 */
 	private double coordenadaX;
 	
